@@ -94,7 +94,6 @@ html {
 }
 .sidebar-nav-item {
   display: block;
-  line-height: 1.75;
   font-family: "Times New Roman", serif;
 }
 a.sidebar-nav-item:hover,
