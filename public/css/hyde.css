@@ -113,6 +113,19 @@ a.sidebar-nav-item:focus {
 .sidebar-link-about:active {
   text-decoration: bold;
 }
+.sidebar-div-one {
+  text-align: left;
+  font-family: "Times New Roman", serif;
+  font-weight: bold;
+}
+.sidebar-link-one {
+  text-align: left;
+  text-indent: 3rem;
+  font-family: "Times New Roman", serif;
+}
+.sidebar-link-one:active {
+  font-weight: bold;
+}
 
 /* Sticky sidebar
  *
