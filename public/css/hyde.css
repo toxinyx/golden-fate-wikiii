@@ -97,7 +97,6 @@ html {
   display: block;
   line-height: 1.75;
   font-family: "Times New Roman", serif;
-  font-size: 40px;
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
@@ -110,6 +109,9 @@ a.sidebar-nav-item:focus {
 .sidebar-link-about {
   font-family: "Verdana", serif;
   text-align: left;
+}
+.sidebar-link-about:active {
+  text-decoration: bold;
 }
 
 /* Sticky sidebar
