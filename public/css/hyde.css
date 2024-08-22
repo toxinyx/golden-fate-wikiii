@@ -112,27 +112,11 @@ a.sidebar-nav-item:focus {
   font-size: 25px;
 }
 
-.sidebar-link-one {
+.sidebar-link-one, .sidebar-link-two {
   text-align: left;
   font-family: "Times New Roman", serif;
 }
-.sidebar-link-one:active {
-  font-weight: bold;
-}
-
-.sidebar-link-two {
-  text-align: left;
-  font-family: "Times New Roman", serif;
-}
-.sidebar-link-two:active {
-  font-weight: bold;
-}
-
-.sidebar-link-three {
-  text-align: left;
-  font-family: "Times New Roman", serif;
-}
-.sidebar-link-three:active {
+.sidebar-link-one:active, .sidebar-link-two:active {
   font-weight: bold;
 }
 
