@@ -57,7 +57,14 @@ html {
   padding: 2rem 1rem;
   color: #201d16;
   background-color: #202020;
+  width: 100%;
+  overflow: hidden;
 }
+.sidebar2 {
+  width: 500px;
+  overflow-y: scroll;
+}
+
 @media (min-width: 48em) {
   .sidebar {
     position: fixed;
