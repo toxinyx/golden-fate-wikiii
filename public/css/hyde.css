@@ -69,17 +69,17 @@ html {
   }
 }
 
-.sidebar-nav {
+.sidebar-links {
   overflow-y: scroll;
 }
 
 /* Hiding scrollbar for Chrome, Safari and Opera */
-.sidebar-nav::-webkit-scrollbar {
+.sidebar-links::-webkit-scrollbar {
     display: none;
 }
 
 /* Hiding scrollbar for IE, Edge and Firefox */
-.sidebar-nav {
+.sidebar-links {
   scrollbar-width: none;  /* Firefox */
   -ms-overflow-style: none;  /* IE and Edge */
 }
