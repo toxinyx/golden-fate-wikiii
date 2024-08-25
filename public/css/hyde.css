@@ -99,11 +99,11 @@ html {
   overflow-y: scroll;
 }
 /* Hiding scrollbar for Chrome, Safari and Opera */
-.sidebar-nav::-webkit-scrollbar {
+.sidebar-nav-scroll::-webkit-scrollbar {
     display: none;
 }
 /* Hiding scrollbar for IE, Edge and Firefox */
-.sidebar-nav {
+.sidebar-nav-scroll {
   scrollbar-width: none;  /* Firefox */
   -ms-overflow-style: none;  /* IE and Edge */
 }
