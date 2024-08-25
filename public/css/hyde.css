@@ -92,7 +92,10 @@ html {
 /* Sidebar nav */
 .sidebar-nav {
   margin-bottom: 1rem;
-  height: 450px;
+}
+
+.sidebar-nav-scroll {
+  height: 420px;
   overflow-y: scroll;
 }
 /* Hiding scrollbar for Chrome, Safari and Opera */
