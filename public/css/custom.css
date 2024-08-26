@@ -1,0 +1,40 @@
+/* general edits */
+
+a {
+  font-family: "courier-new", monospace;
+  color: #f0dd8b;
+}
+
+strong {
+  color: #bfbc9b;
+}
+
+/* about this project page */
+.about-this-project {
+  font-family: "Times New Roman", serif;
+  font-size: 20px;
+}
+
+.about-header {
+  text-align: center;
+  font-size: 40px;
+  color: #d0b232;
+}
+
+.about-tagline {
+  text-align: center;
+  font-size: 30px;
+  color: #ddc975;
+}
+
+.creator-link {
+  font-family: "courier-new", monospace;
+  font-weight: bold;
+  color: #73bf8b;
+}
+
+.contributor-link {
+  font-family: "courier-new", monospace;
+  font-weight: bold;
+  color: #e0d88b
+}
