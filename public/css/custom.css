@@ -17,12 +17,14 @@ strong {
 
 .about-header {
   text-align: center;
+  font-family: "Garamond", serif;
   font-size: 40px;
   color: #d0b232;
 }
 
 .about-tagline {
   text-align: center;
+  font-family: "Garamond", serif;
   font-size: 30px;
   color: #ddc975;
 }
@@ -41,4 +43,5 @@ strong {
 
 .about-end {
   text-align: center;
+  font-family: "Garamond", serif;
 }
