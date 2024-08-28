@@ -55,6 +55,8 @@ strong {
   text-align: center;
 }
 .inspo-titles {
+  margin-bottom: -0.3rem;
+  margin-top: 0.5rem;
   font-weight: bold;
   color: #ddc975;
   font-size: 25px;
