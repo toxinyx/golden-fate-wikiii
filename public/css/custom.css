@@ -21,13 +21,14 @@ strong {
   text-align: center;
   font-family: "Garamond", serif;
   font-weight: italic;
-  font-size: 25px;
+  font-size: 17px;
   color: #f0debb;
 }
 
 .main-body {
   font-family: "Times New Roman", serif;
   font-size: 20px;
+  text-align: justify;
 }
 
 /* about this project page */
