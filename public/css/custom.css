@@ -85,3 +85,12 @@ strong {
 }
 
 /* uneri magic page */
+.uneri-fun-fact-box {
+  background-color: #CCB483;
+  padding: 5px;
+  wdith: 100px;
+  text-align: center;
+  font-size: 25px;
+  margin-left: 40px;
+  position: sticky;
+}
