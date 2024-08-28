@@ -87,10 +87,10 @@ strong {
 /* uneri magic page */
 .uneri-fun-fact-box {
   background-color: #CCB483;
-  color: black;
-  padding: 5px;
-  wdith: 50px;
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  width: 50%;
+  color: white;
   text-align: center;
-  font-size: 17px;
-  position: sticky;
 }
