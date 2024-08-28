@@ -4,9 +4,30 @@ a {
   font-family: "courier-new", monospace;
   color: #ebbd52;
 }
-
 strong {
   color: #bfbc9b;
+}
+
+.page-header {
+  text-align: center;
+  font-family: "Garamond", serif;
+  font-weight: bold;
+  font-size: 35px;
+  color: #e5c16e;
+  background-color: #98948c;
+  padding: 5px;
+}
+.page-tagline {
+  text-align: center;
+  font-family: "Garamond", serif;
+  font-weight: italic;
+  font-size: 25px;
+  color: #f0debb;
+}
+
+.main-body {
+  font-family: "Times New Roman", serif;
+  font-size: 20px;
 }
 
 /* about this project page */
@@ -62,4 +83,4 @@ strong {
   font-size: 25px;
 }
 
-  
+/* uneri magic page */
