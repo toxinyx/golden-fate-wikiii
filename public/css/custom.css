@@ -22,7 +22,6 @@ strong {
   font-weight: bold;
   color: #d0b232;
 }
-
 .about-tagline {
   text-align: center;
   font-family: "Garamond", serif;
@@ -30,20 +29,35 @@ strong {
   font-weight: bold;
   color: #ddc975;
 }
-
+.about-description {
+  text-align: justify;
+}
 .creator-link {
   font-family: "courier-new", monospace;
   font-weight: bold;
   color: #73bf8b;
 }
-
 .contributor-link {
   font-family: "courier-new", monospace;
   font-weight: bold;
   color: #e0d88b
 }
-
 .about-end {
   text-align: center;
   font-family: "Garamond", serif;
 }
+
+.divider {
+  text-align: center;
+  color: #ebbd52;
+}
+.inspirations {
+  text-align: center;
+}
+.inspo-titles {
+  font-weight: bold;
+  color: #ddc975;
+  font-size: 25px;
+}
+
+  
